@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF Acrylic Background")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb12b10b91ead3b3d66a4e844e10a6b15c52df75")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF Acrylic Background")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF Acrylic Background")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
