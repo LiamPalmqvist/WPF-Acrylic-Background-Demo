@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eaI58fZmSo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liampalmqvist\\source\\repos\\WPF Acrylic Background\\WPF Acrylic Background\\WPF Acrylic Background.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liampalmqvist\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
