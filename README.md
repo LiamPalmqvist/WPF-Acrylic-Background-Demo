@@ -7,4 +7,4 @@ This will NOT work in anything BELOW Windows 10
 Only because it uses an IntegerUpDown element for the demo
 This can easily be removed
 
-![image](https://github.com/LiamPalmqvist/WPF-Acrylic-Background-Demo/assets/38404738/4fc3a729-f0bd-4bcb-b33e-57ced2d270fb)
+![image](https://github.com/LiamPalmqvist/WPF-Acrylic-Background-Demo/assets/38404738/7570b5cf-7ec4-475f-bbaa-5595c7df42e9)
