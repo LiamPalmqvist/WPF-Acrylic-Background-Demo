@@ -1,4 +1,4 @@
-# This is a README document for a baseline acrylic application in Windows 1X
+# This is a baseline acrylic application in Windows 1X
 This will NOT work in anything BELOW Windows 10
 
 ### Prerequisites:
